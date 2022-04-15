@@ -1,8 +1,7 @@
-const nftName = "K-Birdz Egg";
-const description =
-  "K-Birdz, Flappy Bird Style P2E game with K-culture made by youtuber JoCoding";
+const nftName = "GMZ-HIDDEN-NFT";
+const description = "GMZ-HIDDEN-NFT";
 const hiddenImgUrl =
-  "ipfs://QmbbfqR9EHdEY2Jy2dJYx8jjFftoaMnD6vgKJLMFXemVdL/hidden.mp4";
+  "https://zumbalabstest123123.mypinata.cloud/ipfs/QmVB2Qp2kEwrKAWUfJPGpWxJDBTS866E715m8yWqSR7Hu3/hidden.png";
 const totalNum = 100;
 
 try {
